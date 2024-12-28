@@ -10,7 +10,7 @@ import datetime
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '7713559661:AAH3YmDRWoWJUh8wHyQO99_Hx5Eav-h_qzs'
+API_TOKEN = ''
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
